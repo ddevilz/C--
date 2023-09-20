@@ -8,5 +8,13 @@ int main() {
         i++;
     }
 
+
+    // do while loop
+    do {
+        cout << i << endl;
+        i++;
+    } while (i <= 5);
+    
+
     return 0;
 }
